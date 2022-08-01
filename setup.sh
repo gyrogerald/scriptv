@@ -15,7 +15,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/fisabiliyusri/Mantap/main/ssh"
+akbarvpn="raw.githubusercontent.com/gyrogerald/scriptv/main/ssh"
 # Link Hosting Kalian Untuk Sstp
 akbarvpnn="raw.githubusercontent.com/fisabiliyusri/Mantap/main/sstp"
 # Link Hosting Kalian Untuk Ssr
